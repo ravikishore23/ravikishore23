@@ -23,7 +23,7 @@ I enjoy blending creativity with problem-solving to build impactful solutions.
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Qiskit](https://skillicons.dev/icons?i=qiskit)
+![Qiskit](https://skillicons.dev/icons?i=ibm_qiskit)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
