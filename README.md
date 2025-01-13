@@ -26,7 +26,6 @@ I enjoy blending creativity with problem-solving to build impactful solutions.
 ![Qiskit](https://skillicons.dev/icons?i=qiskit)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Kali Linux](https://skillicons.dev/icons?i=kalilinux)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GitHub](https://skillicons.dev/icons?i=github)
