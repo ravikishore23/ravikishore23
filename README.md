@@ -2,7 +2,7 @@
 
 B.Tech AI and DS Student | Passionate Technologist | Game
 
-B.Tech AI and Data Science student at **Sriram Engineering College, Veppampattu, Thiruvallur**, driven by a passion for technology and innovation. 
+B.Tech AI and Data Science student at Sriram Engineering College, Veppampattu, Thiruvallur, driven by a passion for technology and innovation. 
 I enjoy blending creativity with problem-solving to build impactful solutions.
 
 ---
