@@ -40,14 +40,6 @@ I enjoy blending creativity with problem-solving to build impactful solutions.
 
 ---
 
-## 🎮 Favorite Games
-- Fortnite
-- PUBG
-- Apex Legends
-- Store-based games
-
----
-
 ## 📫 Connect With Me
 - **LinkedIn**: (will update sooner )
 - **Twitter**: (will update sooner)
