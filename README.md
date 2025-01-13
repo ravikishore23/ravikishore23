@@ -1,13 +1,12 @@
 # R. Kishore Kumar
 
-B.Tech AI and DS Student | Passionate Technologist | Game
+# B.Tech AI and DS Student | Passionate Technologist | Gamer
 
-B.Tech AI and Data Science at Sriram Engineering College, Veppampattu, Thiruvallur, driven by a passion for technology and innovation. 
-I enjoy blending creativity with problem-solving to build impactful solutions.
-
----
+--- 
 
 ## 🌟 About Me
+  B.Tech AI and Data Science at Sriram Engineering College, Veppampattu, Thiruvallur, driven by a passion for technology and innovation. 
+  I enjoy blending creativity with problem-solving to build impactful solutions.
 - 🧑‍💻 **Expertise**: Coding, Cybersecurity, Designing, Machine Learning, Artificial Intelligence, Quantum Computing, and Data Science.
 - 🎮 **Hobbies**: Gaming enthusiast who loves exploring Fortnite, PUBG, Apex Legends, and store-based games.
 - 💡 **Learning**: Constantly upgrading my skills in AI, quantum computing, and full-stack development.
